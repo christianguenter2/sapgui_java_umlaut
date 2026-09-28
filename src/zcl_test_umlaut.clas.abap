@@ -12,7 +12,15 @@ CLASS zcl_test_umlaut DEFINITION
 ENDCLASS.
 
 
-CLASS zcl_test_umlaut IMPLEMENTATION.
+
+CLASS ZCL_TEST_UMLAUT IMPLEMENTATION.
+
+
   METHOD main.
+
+
+    " üüüüüüüüüüüüüüüü
+
+
   ENDMETHOD.
 ENDCLASS.
