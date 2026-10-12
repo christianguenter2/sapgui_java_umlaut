@@ -20,11 +20,11 @@ CLASS ZCL_TEST_UMLAUT IMPLEMENTATION.
 
 
     " üüüüüüüüüüüüüüüü
+    " patch test 1
     " äääöööö
     " xxx
     " yyy
-    " yyy
-    " zzz
+
 
   ENDMETHOD.
 ENDCLASS.
