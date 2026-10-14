@@ -24,7 +24,7 @@ CLASS ZCL_TEST_UMLAUT IMPLEMENTATION.
     " äääöööö
     " xxx
     " yyy
-    " yyy
+
     " zzz
 
   ENDMETHOD.
